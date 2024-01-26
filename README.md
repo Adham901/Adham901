@@ -8,7 +8,8 @@
 <h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Freelancer;Frontend+Developer" alt="Typing SVG" /></a></h2>
 
 
-<div align="center">
+<div align="center"
+>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -18,7 +19,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/adhammagdy2001" target="blank"><img src="https://img.shields.io/twitter/follow/adhammagdy2001?logo=twitter&style=for-the-badge" alt="adhammagdy2001" /></a> </p>
+
 
 - 📫 How to reach me **magdyadham229@gmail.com**
 
