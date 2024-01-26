@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adham901" alt="adham901" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/adhammagdy2001" target="blank"><img src="https://img.shields.io/twitter/follow/adhammagdy2001?logo=twitter&style=for-the-badge" alt="adhammagdy2001" /></a> </p>
 
@@ -19,7 +19,8 @@
 <a href="https://twitter.com/adhammagdy2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhammagdy2001" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adham-magdy-311abb23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adham-magdy-311abb23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.facebook.com/adham.magdy.3720?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adham.magdy.3720?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adhammagdy8?igsh=ndljahnqoxjratf0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhammagdy8?igsh=ndljahnqoxjratf0" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/adhammagdy8?igsh=ndljahnqoxjratf0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhammagdy8?igsh=ndljahnqoxjratf0" height="30" width="40"
+ /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
