@@ -40,3 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adham901&show_icons=true&locale=en&layout=compact" alt="adham901" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adham901&" alt="adham901" /></p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
