@@ -1,4 +1,6 @@
-(https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adham+Magdy;Freelancer;Frontend+Developer" alt="Typing SVG" /></a></h1>
 
@@ -12,9 +14,12 @@
 
 
 
+
 <p align="left"> <a href="https://twitter.com/adhammagdy2001" target="blank"><img src="https://img.shields.io/twitter/follow/adhammagdy2001?logo=twitter&style=for-the-badge" alt="adhammagdy2001" /></a> </p>
 
 - 📫 How to reach me **magdyadham229@gmail.com**
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
